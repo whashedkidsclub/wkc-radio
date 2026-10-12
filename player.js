@@ -330,6 +330,14 @@ nextButton.addEventListener(
     nextTrack
 );
 
+document
+    .querySelector(".skip-back")
+    .addEventListener("click", skipBackward);
+
+document
+    .querySelector(".skip-forward")
+    .addEventListener("click", skipForward);
+
 
 // ========================================
 // FORMAT TIME
