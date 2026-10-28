@@ -30,25 +30,16 @@ const tracks = [
         title: "WKC Radio Test",
         artist: "Whashed Kids Club",
         file: "https://pub-0c0b761e25b847588e5326e0e4c58882.r2.dev/audio/WKC-%20Radio%20Test10.27.26%20840pm.m4a"
-    }
-];
-
+    },
     {
         title: "The Velvet Suns — Static Dreams",
         artist: "The Velvet Suns",
         file: "audio/static-dreams.mp3"
     },
-
     {
         title: "Sunshine Static",
         artist: "WKC Radio",
         file: "audio/sunshine-static.mp3"
-    },
-
-    {
-        title: "WKC After Hours",
-        artist: "Whashed Kids Club",
-        file: "audio/wkc-after-hours.mp3"
     }
 ];
 
