@@ -27,10 +27,11 @@ const playlistTracks = document.querySelectorAll(".track");
 
 const tracks = [
     {
-        title: "WKC Radio — Welcome",
+        title: "WKC Radio Test",
         artist: "Whashed Kids Club",
-        file: "audio/wkc-welcome.mp3"
-    },
+        file: "https://pub-0c0b761e25b847588e5326e0e4c58882.r2.dev/audio/WKC-%20Radio%20Test10.27.26%20840pm.m4a"
+    }
+];
 
     {
         title: "The Velvet Suns — Static Dreams",
